@@ -17,3 +17,9 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+
+"""Configuración de la base de datos."""
+
+SELECT SUM(c12) AS "SUM(c12)"
+FROM tbl1;
+
